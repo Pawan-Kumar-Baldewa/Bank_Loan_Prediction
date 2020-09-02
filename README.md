@@ -16,6 +16,6 @@ liability customer buying personal loan.
 
 #### Jupyter Notebook
 
-Data : Bank_Personal_Loan_Modelling.xls
+Data : Bank_Personal_Loan_Modelling.xlsx
 
 Project : bankLoan.ipynb
